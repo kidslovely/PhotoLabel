@@ -1,0 +1,6 @@
+Photo + Label
+
+This app is made photo with label. user can get the photos form camera or gallery and add label in it.
+If you wnat to sell any product, you can add title, descriptin, price on the photos.
+And then you can share the photos on facebook, twitter, custom website.
+
